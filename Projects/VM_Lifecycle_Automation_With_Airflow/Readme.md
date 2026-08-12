@@ -4,7 +4,7 @@ Developed Airflow DAGs automating Virtual Machine lifecycle management: Python t
 
 <h2><b><u> Architecture Diagram:</u></b></h2>
 <div align="left">
-  <img src="https://github.com/skv99/skv/blob/project2/Projects/VM_Lifecycle_Automation_With_Airflow/Images/ArchitectureImage.png?raw=true" 
+  <img src="https://github.com/skv99/skv/blob/main/Projects/VM_Lifecycle_Automation_With_Airflow/Images/ArchitectureImage.png?raw=true" 
        alt="Architecture Diag." 
        width="800" 
        height="300" />
